@@ -1,0 +1,13 @@
+tipo:Extra:21000:22.0
+tipo:Corriente:14000:14910.0
+tipo:Diesel:9500:12958.947368421053
+tipo:plus:17000:317.5
+surtidor:Lionel:Extra:0.0:Corriente:0.0:Diesel:0.0:plus:15.0
+surtidor:Lionel:Extra:0.0:Corriente:0.0:Diesel:30.526315789473685:plus:0.0
+surtidor:Michel:Extra:0.0:Corriente:0.0:Diesel:10.526315789473685:plus:0.0
+surtidor:Kevin:Extra:103.0:Corriente:90.0:Diesel:0.0:plus:0.0
+empleado:Kevin:3423000
+empleado:Michel:100000
+empleado:Javier:0
+empleado:Cesar:0
+empleado:Lionel:545000
